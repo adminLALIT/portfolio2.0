@@ -1,6 +1,6 @@
 import React from "react";
 import "./intro.css";
-import Me from "../../assets/me2.webp";
+import Me from "../../assets/man.png";
 
 const Intro = () => {
   return (
